@@ -1,4 +1,4 @@
-chat_data = {
+{
     "participants": [
         {"name": "John"},
         {"name": "Jane"}
