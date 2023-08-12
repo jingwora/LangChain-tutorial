@@ -1,70 +1,52 @@
 {
   "participants": [
     {
-      "name": "Zuko"
+      "name": "Alex"
     },
     {
-      "name": "Sokka"
+      "name": "Jordan"
     }
   ],
   "messages": [
     {
-      "sender_name": "Zuko",
+      "sender_name": "Alex",
       "timestamp_ms": 1579137191303,
-      "content": "That's rough, buddy.",
+      "content": "Jordan, Atom project was a huge success, don't you think?",
       "type": "Generic"
     },
     {
-      "sender_name": "Sokka",
+      "sender_name": "Jordan",
       "timestamp_ms": 1579137103044,
-      "content": "My first girlfriend turned into the moon",
+      "content": "Absolutely, Alex. Our teamwork and problem-solving really shone through.",
       "type": "Generic"
     },
     {
-      "sender_name": "Zuko",
+      "sender_name": "Alex",
       "timestamp_ms": 1579137078312,
-      "content": "Everyone in the Fire Nation thinks I'm a traitor, I couldn't drag her into it.",
+      "content": "I was impressed with how smoothly everything went, from planning to execution.",
       "type": "Generic"
     },
     {
-      "sender_name": "Zuko",
+      "sender_name": "Jordan",
       "timestamp_ms": 1579136858575,
-      "content": "Yeah",
+      "content": "And finishing ahead of schedule, plus the client's rave reviews, show our dedication paid off.",
       "type": "Generic"
     },
     {
-      "sender_name": "Sokka",
+      "sender_name": "Alex",
       "timestamp_ms": 1579136847743,
-      "content": "That gloomy girl who sighs a lot?!",
+      "content": "True. Let's use this momentum for more successful projects down the line.",
       "type": "Generic"
     },
     {
-      "sender_name": "Zuko",
+      "sender_name": "Jordan",
       "timestamp_ms": 1579136839127,
-      "content": "Well, I did have a girlfriend. Mai.",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Sokka",
-      "timestamp_ms": 1579136837474,
-      "content": "Really? You didn't leave behind anyone you cared about?",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Zuko",
-      "timestamp_ms": 1579136836700,
-      "content": "It wasn't that hard",
-      "type": "Generic"
-    },
-    {
-      "sender_name": "Sokka",
-      "timestamp_ms": 1579136824886,
-      "content": "I think your uncle would be proud of you, leaving your home to come help us -- that's hard",
+      "content": "Agreed, Alex. Here's to our achievements and future success! 🥂",
       "type": "Generic"
     }
   ],
-  "title": "The Boiling Rock Pt. 1",
+  "title": "Project Atom Recap",
   "is_still_participant": true,
   "thread_type": "Regular",
-  "thread_path": "inbox/TheBoilingRockPt1_u3hhb2HmZg"
+  "thread_path": "inbox/ProjectAtomRecap_uldJ30Kjs9"
 }
