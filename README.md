@@ -1,4 +1,4 @@
-# LangChain-Completed-Tutorial
+# LangChain-Complete-Tutorial
 
 ## Introduction
 Welcome to the LangChain Completed Tutorial! In this comprehensive tutorial, we will explore and delve into the various components and concepts that make up LangChain, a powerful language processing framework. LangChain empowers developers and researchers to harness the capabilities of large language models(LLMs), while extending its functionality with a range of tools designed to streamline and enhance language-related tasks.
