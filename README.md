@@ -51,6 +51,9 @@ Welcome to the LangChain Completed Tutorial! In this comprehensive tutorial, we 
   - ```load_tools```
   - ```initialize_agent```
 
+- Extra:
+  - Caching [🌐](https://python.langchain.com/docs/integrations/llms/llm_caching)
+
 Note: You need OPEN_AI_KEY to run the notebook.
 
 Ref:
